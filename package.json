@@ -1,0 +1,16 @@
+{
+  "name": "unity-server-technologies",
+  "version": "0.0.1",
+  "description": "server technologies",
+  "type": "module",
+  "main": "tmp.js",
+  "scripts": {
+    "start": "nodemon tmp.js"
+  },
+  "author": "Kemal Ünlü",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "fs": "^0.0.1-security"
+  }
+}
